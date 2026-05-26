@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrncrypt",
+        "uuid": 14615730,
+        "checksum": "5mhkq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
